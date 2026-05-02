@@ -1,5 +1,3 @@
-# AI_Bicep_Curl_Counter
-An AI powered bicep curl counter that uses computer vision and pose estimation to track arm joints and calculate angles in real time.The system analyzes body movement through a webcam  to automatically detect and count correct repetitions.
 # AI Bicep Curl Counter
 
 A real-time computer vision application built with **Python**, **OpenCV**, and **MediaPipe** that tracks bicep curl repetitions for both arms simultaneously. This tool uses pose estimation to calculate elbow angles and count reps based on the full range of motion.
